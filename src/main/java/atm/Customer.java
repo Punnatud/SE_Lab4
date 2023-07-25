@@ -1,5 +1,7 @@
 package atm;
 
+import org.springframework.stereotype.Component;
+
 /**
  * A bank customer with a checking and a savings account.
  */
